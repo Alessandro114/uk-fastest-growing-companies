@@ -1,0 +1,13 @@
+{
+  "name": "uk-fastest-growing-companies",
+  "version": "1.0.0",
+  "description": "The 100 fastest-growing independent UK SMEs (FY2022-FY2024) from Companies House filed accounts, as a zero-dependency CLI and dataset for humans and AI agents.",
+  "bin": { "uk-growth": "bin/uk-growth.js" },
+  "files": ["bin", "data", "skills", "README.md", "LICENSE", "LICENSE-DATA"],
+  "keywords": ["uk", "companies", "fastest-growing", "sme", "companies-house", "dataset", "ai-agents", "claude", "skill", "open-data"],
+  "homepage": "https://score.get-scala.com/rankings/uk/growth-100/",
+  "repository": { "type": "git", "url": "git+https://github.com/Alessandro114/uk-fastest-growing-companies.git" },
+  "license": "MIT",
+  "author": "Alessandro Binda (SCALA)",
+  "engines": { "node": ">=16" }
+}

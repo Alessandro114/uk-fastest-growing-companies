@@ -1,0 +1,10 @@
+{
+  "name": "uk-fastest-growing-companies",
+  "version": "1.0.0",
+  "description": "Ask Claude which independent UK SMEs grew fastest from 2022 to 2024 (Companies House filed accounts), by region, sector or company.",
+  "author": { "name": "Alessandro Binda (SCALA)", "url": "https://score.get-scala.com" },
+  "homepage": "https://score.get-scala.com/rankings/uk/growth-100/",
+  "repository": "https://github.com/Alessandro114/uk-fastest-growing-companies",
+  "license": "MIT",
+  "keywords": ["uk", "companies", "growth", "companies-house", "dataset"]
+}

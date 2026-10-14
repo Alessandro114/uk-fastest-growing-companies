@@ -1,0 +1,1710 @@
+{
+ "name": "SCALA Growth 100 UK 2026",
+ "description": "The 100 independent UK SMEs whose turnover grew fastest from FY2022 to FY2024, computed only from accounts filed at Companies House and reviewed by hand.",
+ "source": "Companies House public register (iXBRL accounts filed Jan 2024 to Dec 2025; PSC snapshot 12 Oct 2026; company data product 1 Oct 2026). Regions: ONS via postcodes.io.",
+ "method_url": "https://score.get-scala.com/rankings/uk/growth-100/",
+ "licence": "CC BY 4.0 (attribution: SCALA, score.get-scala.com)",
+ "generated": "2026-10-14",
+ "companies": [
+  {
+   "rank": 1,
+   "company_name": "Travellanda Ltd",
+   "company_number": "07172785",
+   "town": "Borehamwood",
+   "postcode": "WD6 2FX",
+   "region": "East of England",
+   "sic_code": "79909",
+   "sic_description": "Other reservation service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 8774128,
+    "2023": 21770081,
+    "2024": 32953042
+   },
+   "cagr_2022_2024_pct": 93.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07172785"
+  },
+  {
+   "rank": 2,
+   "company_name": "Diona Construction Ltd",
+   "company_number": "SC278146",
+   "town": "Glasgow",
+   "postcode": "G42 0PL",
+   "region": "Scotland",
+   "sic_code": "42220",
+   "sic_description": "Construction of utility projects for electricity and telecommunications",
+   "turnover_gbp": {
+    "2022": 9575736,
+    "2023": 19619254,
+    "2024": 28094151
+   },
+   "cagr_2022_2024_pct": 71.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC278146"
+  },
+  {
+   "rank": 3,
+   "company_name": "I3works Ltd",
+   "company_number": "SC477423",
+   "town": "Glasgow",
+   "postcode": "G74 4JW",
+   "region": "Scotland",
+   "sic_code": "70229",
+   "sic_description": "Management consultancy activities other than financial management",
+   "turnover_gbp": {
+    "2022": 9765996,
+    "2023": 16762093,
+    "2024": 27343296
+   },
+   "cagr_2022_2024_pct": 67.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC477423"
+  },
+  {
+   "rank": 4,
+   "company_name": "Hackney Meat Traders Ltd",
+   "company_number": "08063540",
+   "town": "Dagenham",
+   "postcode": "RM8 1QH",
+   "region": "London",
+   "sic_code": "10110",
+   "sic_description": "Processing and preserving of meat",
+   "turnover_gbp": {
+    "2022": 7034529,
+    "2023": 16968070,
+    "2024": 18283295
+   },
+   "cagr_2022_2024_pct": 61.2,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08063540"
+  },
+  {
+   "rank": 5,
+   "company_name": "Mypad 2020 Limited",
+   "company_number": "12344189",
+   "town": "Derby",
+   "postcode": "DE24 8JY",
+   "region": "East Midlands",
+   "sic_code": "41201",
+   "sic_description": "Construction of commercial buildings",
+   "turnover_gbp": {
+    "2022": 14434614,
+    "2023": 20083675,
+    "2024": 37447549
+   },
+   "cagr_2022_2024_pct": 61.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/12344189"
+  },
+  {
+   "rank": 6,
+   "company_name": "Travelodeal Limited",
+   "company_number": "09061889",
+   "town": "London",
+   "postcode": "W1T 7NF",
+   "region": "London",
+   "sic_code": "79110",
+   "sic_description": "Travel agency activities",
+   "turnover_gbp": {
+    "2022": 13588339,
+    "2023": 28311400,
+    "2024": 34837279
+   },
+   "cagr_2022_2024_pct": 60.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09061889"
+  },
+  {
+   "rank": 7,
+   "company_name": "Advanced Demand Side Management Limited",
+   "company_number": "02688973",
+   "town": "Windsor",
+   "postcode": "SL4 6AF",
+   "region": "South East",
+   "sic_code": "36000",
+   "sic_description": "Water collection, treatment and supply",
+   "turnover_gbp": {
+    "2022": 14828389,
+    "2023": 25457366,
+    "2024": 37553202
+   },
+   "cagr_2022_2024_pct": 59.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02688973"
+  },
+  {
+   "rank": 8,
+   "company_name": "Boarcross Limited",
+   "company_number": "01781886",
+   "town": "Driffield",
+   "postcode": "YO25 3DS",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "01460",
+   "sic_description": "Raising of swine/pigs",
+   "turnover_gbp": {
+    "2022": 12689359,
+    "2023": 24745058,
+    "2024": 31866176
+   },
+   "cagr_2022_2024_pct": 58.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01781886"
+  },
+  {
+   "rank": 9,
+   "company_name": "Ethos Farm Limited",
+   "company_number": "10378647",
+   "town": "Aylesbury",
+   "postcode": "HP18 0RA",
+   "region": "South East",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 10635692,
+    "2023": 20874624,
+    "2024": 26571573
+   },
+   "cagr_2022_2024_pct": 58.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/10378647"
+  },
+  {
+   "rank": 10,
+   "company_name": "The Essence Vault Ltd",
+   "company_number": "NI666665",
+   "town": "Antrim",
+   "postcode": "BT41 2PT",
+   "region": "Northern Ireland",
+   "sic_code": "47750",
+   "sic_description": "Retail sale of cosmetic and toilet articles in specialised stores",
+   "turnover_gbp": {
+    "2022": 14421276,
+    "2023": 30095946,
+    "2024": 34593327
+   },
+   "cagr_2022_2024_pct": 54.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI666665"
+  },
+  {
+   "rank": 11,
+   "company_name": "Yapily Ltd",
+   "company_number": "10842280",
+   "town": "London",
+   "postcode": "EC2A 4NA",
+   "region": "London",
+   "sic_code": "62090",
+   "sic_description": "Other information technology service activities",
+   "turnover_gbp": {
+    "2022": 2778946,
+    "2023": 5054012,
+    "2024": 6592314
+   },
+   "cagr_2022_2024_pct": 54.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/10842280"
+  },
+  {
+   "rank": 12,
+   "company_name": "Premier Traffic Management Limited",
+   "company_number": "04114606",
+   "town": "Spennymoor",
+   "postcode": "DL16 6TL",
+   "region": "North East",
+   "sic_code": "52219",
+   "sic_description": "Other service activities incidental to land transportation, n.e.c.",
+   "turnover_gbp": {
+    "2022": 14373886,
+    "2023": 25383187,
+    "2024": 33595653
+   },
+   "cagr_2022_2024_pct": 52.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04114606"
+  },
+  {
+   "rank": 13,
+   "company_name": "Sabeti Wain Aerospace Limited",
+   "company_number": "02094671",
+   "town": "High Wycombe",
+   "postcode": "HP12 4HX",
+   "region": "South East",
+   "sic_code": "32990",
+   "sic_description": "Other manufacturing n.e.c.",
+   "turnover_gbp": {
+    "2022": 12556077,
+    "2023": 21533131,
+    "2024": 28645760
+   },
+   "cagr_2022_2024_pct": 51.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02094671"
+  },
+  {
+   "rank": 14,
+   "company_name": "Pacson Limited",
+   "company_number": "SC114098",
+   "town": "Dundee",
+   "postcode": "DD4 9UA",
+   "region": "Scotland",
+   "sic_code": "28140",
+   "sic_description": "Manufacture of taps and valves",
+   "turnover_gbp": {
+    "2022": 6272787,
+    "2023": 9516672,
+    "2024": 13803701
+   },
+   "cagr_2022_2024_pct": 48.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC114098"
+  },
+  {
+   "rank": 15,
+   "company_name": "David Davies Resources Ltd",
+   "company_number": "07266151",
+   "town": "Shrewsbury",
+   "postcode": "SY5 0HR",
+   "region": "West Midlands",
+   "sic_code": "01500",
+   "sic_description": "Mixed farming",
+   "turnover_gbp": {
+    "2022": 7383788,
+    "2023": 13528669,
+    "2024": 15873547
+   },
+   "cagr_2022_2024_pct": 46.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07266151"
+  },
+  {
+   "rank": 16,
+   "company_name": "UK Docks Marine Services North Limited",
+   "company_number": "01297874",
+   "town": "South Shields",
+   "postcode": "NE33 1LH",
+   "region": "North East",
+   "sic_code": "30110",
+   "sic_description": "Building of ships and floating structures",
+   "turnover_gbp": {
+    "2022": 16603585,
+    "2023": 19246002,
+    "2024": 35606784
+   },
+   "cagr_2022_2024_pct": 46.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01297874"
+  },
+  {
+   "rank": 17,
+   "company_name": "Corsair Toiletries Limited",
+   "company_number": "01254443",
+   "town": "St Albans",
+   "postcode": "AL2 2DR",
+   "region": "East of England",
+   "sic_code": "32990",
+   "sic_description": "Other manufacturing n.e.c.",
+   "turnover_gbp": {
+    "2022": 13229459,
+    "2023": 20888504,
+    "2024": 28242130
+   },
+   "cagr_2022_2024_pct": 46.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01254443"
+  },
+  {
+   "rank": 18,
+   "company_name": "Skinnydip Limited",
+   "company_number": "07499836",
+   "town": "London",
+   "postcode": "W1W 6XH",
+   "region": "London",
+   "sic_code": "46520",
+   "sic_description": "Wholesale of electronic and telecommunications equipment and parts",
+   "turnover_gbp": {
+    "2022": 16767532,
+    "2023": 23414718,
+    "2024": 35760607
+   },
+   "cagr_2022_2024_pct": 46.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07499836"
+  },
+  {
+   "rank": 19,
+   "company_name": "Safeguard Europe Limited",
+   "company_number": "01721203",
+   "town": "Horsham",
+   "postcode": "RH13 5QL",
+   "region": "South East",
+   "sic_code": "32990",
+   "sic_description": "Other manufacturing n.e.c.",
+   "turnover_gbp": {
+    "2022": 11748934,
+    "2023": 18971449,
+    "2024": 24974509
+   },
+   "cagr_2022_2024_pct": 45.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01721203"
+  },
+  {
+   "rank": 20,
+   "company_name": "Heal Eggs Limited",
+   "company_number": "01179907",
+   "town": "Shrewsbury",
+   "postcode": "SY4 4ET",
+   "region": "West Midlands",
+   "sic_code": "01470",
+   "sic_description": "Raising of poultry",
+   "turnover_gbp": {
+    "2022": 11816975,
+    "2023": 18589745,
+    "2024": 24662565
+   },
+   "cagr_2022_2024_pct": 44.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01179907"
+  },
+  {
+   "rank": 21,
+   "company_name": "E.J.C. Contracts Ltd",
+   "company_number": "NI045412",
+   "town": "Newtownabbey",
+   "postcode": "BT36 4TQ",
+   "region": "Northern Ireland",
+   "sic_code": "43999",
+   "sic_description": "Other specialised construction activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 13274493,
+    "2023": 21548181,
+    "2024": 27255238
+   },
+   "cagr_2022_2024_pct": 43.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI045412"
+  },
+  {
+   "rank": 22,
+   "company_name": "Halls Electrical Ltd",
+   "company_number": "02036219",
+   "town": "Yate Bristol",
+   "postcode": "BS37 5NJ",
+   "region": "South West",
+   "sic_code": "45200",
+   "sic_description": "Maintenance and repair of motor vehicles",
+   "turnover_gbp": {
+    "2022": 7504677,
+    "2023": 9889928,
+    "2024": 15138901
+   },
+   "cagr_2022_2024_pct": 42.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02036219"
+  },
+  {
+   "rank": 23,
+   "company_name": "Trion Pharma Limited",
+   "company_number": "09293856",
+   "town": "Coventry",
+   "postcode": "CV6 4AD",
+   "region": "West Midlands",
+   "sic_code": "46460",
+   "sic_description": "Wholesale of pharmaceutical goods",
+   "turnover_gbp": {
+    "2022": 9596893,
+    "2023": 14552431,
+    "2024": 19184577
+   },
+   "cagr_2022_2024_pct": 41.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09293856"
+  },
+  {
+   "rank": 24,
+   "company_name": "Bromcom Computers plc",
+   "company_number": "02040690",
+   "town": "Bromley",
+   "postcode": "BR2 9JG",
+   "region": "London",
+   "sic_code": "46510",
+   "sic_description": "Wholesale of computers, computer peripheral equipment and software",
+   "turnover_gbp": {
+    "2022": 15859157,
+    "2023": 21137817,
+    "2024": 31603464
+   },
+   "cagr_2022_2024_pct": 41.2,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02040690"
+  },
+  {
+   "rank": 25,
+   "company_name": "Evolve Hospitality Recruitment Ltd",
+   "company_number": "08792905",
+   "town": "Northampton",
+   "postcode": "NN1 5PT",
+   "region": "East Midlands",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 19296654,
+    "2023": 32508382,
+    "2024": 37902011
+   },
+   "cagr_2022_2024_pct": 40.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08792905"
+  },
+  {
+   "rank": 26,
+   "company_name": "Reginson Engineering Limited",
+   "company_number": "03159353",
+   "town": "Coventry",
+   "postcode": "CV1 4PB",
+   "region": "West Midlands",
+   "sic_code": "96090",
+   "sic_description": "Other service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 5328178,
+    "2023": 7357766,
+    "2024": 10394226
+   },
+   "cagr_2022_2024_pct": 39.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03159353"
+  },
+  {
+   "rank": 27,
+   "company_name": "MM Freight Ltd",
+   "company_number": "NI614252",
+   "town": "Lurgan",
+   "postcode": "BT67 9JD",
+   "region": "Northern Ireland",
+   "sic_code": "49410",
+   "sic_description": "Freight transport by road",
+   "turnover_gbp": {
+    "2022": 21307283,
+    "2023": 34078101,
+    "2024": 41535876
+   },
+   "cagr_2022_2024_pct": 39.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI614252"
+  },
+  {
+   "rank": 28,
+   "company_name": "Jaded London Limited",
+   "company_number": "06655828",
+   "town": "Borehamwood",
+   "postcode": "WD6 1JD",
+   "region": "East of England",
+   "sic_code": "47710",
+   "sic_description": "Retail sale of clothing in specialised stores",
+   "turnover_gbp": {
+    "2022": 20044745,
+    "2023": 31680362,
+    "2024": 38883071
+   },
+   "cagr_2022_2024_pct": 39.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/06655828"
+  },
+  {
+   "rank": 29,
+   "company_name": "Door-Kit Solutions Limited",
+   "company_number": "10930066",
+   "town": "Great Bridge",
+   "postcode": "B70 0DH",
+   "region": "West Midlands",
+   "sic_code": "16230",
+   "sic_description": "Manufacture of other builders' carpentry and joinery",
+   "turnover_gbp": {
+    "2022": 5059649,
+    "2023": 7381976,
+    "2024": 9760361
+   },
+   "cagr_2022_2024_pct": 38.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/10930066"
+  },
+  {
+   "rank": 30,
+   "company_name": "Link2london Ltd",
+   "company_number": "09067224",
+   "town": "Uxbridge",
+   "postcode": "UB10 8HB",
+   "region": "London",
+   "sic_code": "38110",
+   "sic_description": "Collection of non-hazardous waste",
+   "turnover_gbp": {
+    "2022": 4113559,
+    "2023": 6941855,
+    "2024": 7900519
+   },
+   "cagr_2022_2024_pct": 38.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09067224"
+  },
+  {
+   "rank": 31,
+   "company_name": "All Square Limited",
+   "company_number": "02191991",
+   "town": "London",
+   "postcode": "SW8 1RL",
+   "region": "London",
+   "sic_code": "80100",
+   "sic_description": "Private security activities",
+   "turnover_gbp": {
+    "2022": 12769961,
+    "2023": 21881413,
+    "2024": 24389020
+   },
+   "cagr_2022_2024_pct": 38.2,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02191991"
+  },
+  {
+   "rank": 32,
+   "company_name": "Craft Buddy Ltd",
+   "company_number": "07236303",
+   "town": "Chesham",
+   "postcode": "HP5 2QA",
+   "region": "South East",
+   "sic_code": "47910",
+   "sic_description": "Retail sale via mail order houses or via Internet",
+   "turnover_gbp": {
+    "2022": 6075700,
+    "2023": 8429446,
+    "2024": 11562687
+   },
+   "cagr_2022_2024_pct": 38.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07236303"
+  },
+  {
+   "rank": 33,
+   "company_name": "Streamline Shipping Agencies Limited",
+   "company_number": "SC073938",
+   "town": "Aberdeen",
+   "postcode": "AB11 5PU",
+   "region": "Scotland",
+   "sic_code": "52290",
+   "sic_description": "Other transportation support activities",
+   "turnover_gbp": {
+    "2022": 22122482,
+    "2023": 36893082,
+    "2024": 41235811
+   },
+   "cagr_2022_2024_pct": 36.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC073938"
+  },
+  {
+   "rank": 34,
+   "company_name": "Premier People Recruitment Ltd",
+   "company_number": "05021771",
+   "town": "Uxbridge",
+   "postcode": "UB9 4DN",
+   "region": "South East",
+   "sic_code": "78109",
+   "sic_description": "Other activities of employment placement agencies",
+   "turnover_gbp": {
+    "2022": 19732973,
+    "2023": 21701784,
+    "2024": 36104257
+   },
+   "cagr_2022_2024_pct": 35.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05021771"
+  },
+  {
+   "rank": 35,
+   "company_name": "Drumgrange Limited",
+   "company_number": "01460044",
+   "town": "Chertsey",
+   "postcode": "KT16 9JX",
+   "region": "South East",
+   "sic_code": "72190",
+   "sic_description": "Other research and experimental development on natural sciences and engineering",
+   "turnover_gbp": {
+    "2022": 14742623,
+    "2023": 21770193,
+    "2024": 26912628
+   },
+   "cagr_2022_2024_pct": 35.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01460044"
+  },
+  {
+   "rank": 36,
+   "company_name": "Priory Court Developments Limited",
+   "company_number": "01816375",
+   "town": "Pinner",
+   "postcode": "HA5 4HB",
+   "region": "London",
+   "sic_code": "55900",
+   "sic_description": "Other accommodation",
+   "turnover_gbp": {
+    "2022": 4872181,
+    "2023": 7633823,
+    "2024": 8885404
+   },
+   "cagr_2022_2024_pct": 35.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01816375"
+  },
+  {
+   "rank": 37,
+   "company_name": "K Rouse Civil Engineers Limited",
+   "company_number": "03289662",
+   "town": "Leeds",
+   "postcode": "LS12 3AL",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "42110",
+   "sic_description": "Construction of roads and motorways",
+   "turnover_gbp": {
+    "2022": 15494463,
+    "2023": 17149717,
+    "2024": 28067343
+   },
+   "cagr_2022_2024_pct": 34.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03289662"
+  },
+  {
+   "rank": 38,
+   "company_name": "Arcanum Information Security Limited",
+   "company_number": "06567907",
+   "town": "Caerphilly",
+   "postcode": "CF83 8ER",
+   "region": "Wales",
+   "sic_code": "80200",
+   "sic_description": "Security systems service activities",
+   "turnover_gbp": {
+    "2022": 2515246,
+    "2023": 4009657,
+    "2024": 4541791
+   },
+   "cagr_2022_2024_pct": 34.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/06567907"
+  },
+  {
+   "rank": 39,
+   "company_name": "D. Wilson Architectural Metalwork Ltd",
+   "company_number": "02864825",
+   "town": "Smethwick",
+   "postcode": "B66 2DZ",
+   "region": "West Midlands",
+   "sic_code": "25990",
+   "sic_description": "Manufacture of other fabricated metal products n.e.c.",
+   "turnover_gbp": {
+    "2022": 4130389,
+    "2023": 7113635,
+    "2024": 7427512
+   },
+   "cagr_2022_2024_pct": 34.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02864825"
+  },
+  {
+   "rank": 40,
+   "company_name": "Calex UK Ltd",
+   "company_number": "05941906",
+   "town": "Abingdon",
+   "postcode": "OX14 3YS",
+   "region": "South East",
+   "sic_code": "70229",
+   "sic_description": "Management consultancy activities other than financial management",
+   "turnover_gbp": {
+    "2022": 17324678,
+    "2023": 24005974,
+    "2024": 31082776
+   },
+   "cagr_2022_2024_pct": 33.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05941906"
+  },
+  {
+   "rank": 41,
+   "company_name": "Terra Firma Pipeline Limited",
+   "company_number": "04089690",
+   "town": "Brentwood",
+   "postcode": "CM13 3JJ",
+   "region": "East of England",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 19569717,
+    "2023": 26340722,
+    "2024": 34919086
+   },
+   "cagr_2022_2024_pct": 33.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04089690"
+  },
+  {
+   "rank": 42,
+   "company_name": "Bristol Fluid System Technologies Limited",
+   "company_number": "07360187",
+   "town": "Almondsbury",
+   "postcode": "BS32 4QD",
+   "region": "South West",
+   "sic_code": "46900",
+   "sic_description": "Non-specialised wholesale trade",
+   "turnover_gbp": {
+    "2022": 11702475,
+    "2023": 13767362,
+    "2024": 20728790
+   },
+   "cagr_2022_2024_pct": 33.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07360187"
+  },
+  {
+   "rank": 43,
+   "company_name": "Opus Care Limited",
+   "company_number": "03512344",
+   "town": "Ashford",
+   "postcode": "TN24 8PL",
+   "region": "South East",
+   "sic_code": "86102",
+   "sic_description": "Medical nursing home activities",
+   "turnover_gbp": {
+    "2022": 6720022,
+    "2023": 8849661,
+    "2024": 11872620
+   },
+   "cagr_2022_2024_pct": 32.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03512344"
+  },
+  {
+   "rank": 44,
+   "company_name": "Stirk, Lamont & Associates Ltd",
+   "company_number": "NI047983",
+   "town": "Belfast",
+   "postcode": "BT3 9DT",
+   "region": "Northern Ireland",
+   "sic_code": "62020",
+   "sic_description": "Information technology consultancy activities",
+   "turnover_gbp": {
+    "2022": 3736533,
+    "2023": 4693402,
+    "2024": 6596922
+   },
+   "cagr_2022_2024_pct": 32.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI047983"
+  },
+  {
+   "rank": 45,
+   "company_name": "BSB Construction Limited",
+   "company_number": "07816133",
+   "town": "Harpenden",
+   "postcode": "AL5 4EE",
+   "region": "East of England",
+   "sic_code": "41100",
+   "sic_description": "Development of building projects",
+   "turnover_gbp": {
+    "2022": 5860702,
+    "2023": 7910762,
+    "2024": 10341803
+   },
+   "cagr_2022_2024_pct": 32.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07816133"
+  },
+  {
+   "rank": 46,
+   "company_name": "Kirtons Bakery Limited",
+   "company_number": "06402164",
+   "town": "Leicester",
+   "postcode": "LE1 3LE",
+   "region": "East Midlands",
+   "sic_code": "10710",
+   "sic_description": "Manufacture of bread; manufacture of fresh pastry goods and cakes",
+   "turnover_gbp": {
+    "2022": 11275883,
+    "2023": 15051869,
+    "2024": 19862419
+   },
+   "cagr_2022_2024_pct": 32.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/06402164"
+  },
+  {
+   "rank": 47,
+   "company_name": "Evabuild Limited",
+   "company_number": "07627090",
+   "town": "Newtown",
+   "postcode": "SY16 1AF",
+   "region": "Wales",
+   "sic_code": "42990",
+   "sic_description": "Construction of other civil engineering projects n.e.c.",
+   "turnover_gbp": {
+    "2022": 14506140,
+    "2023": 15940791,
+    "2024": 25315338
+   },
+   "cagr_2022_2024_pct": 32.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07627090"
+  },
+  {
+   "rank": 48,
+   "company_name": "London Hire Community Services Limited",
+   "company_number": "08398077",
+   "town": "Erith",
+   "postcode": "DA8 2AD",
+   "region": "London",
+   "sic_code": "49319",
+   "sic_description": "Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)",
+   "turnover_gbp": {
+    "2022": 10344879,
+    "2023": 15530013,
+    "2024": 18024231
+   },
+   "cagr_2022_2024_pct": 32.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08398077"
+  },
+  {
+   "rank": 49,
+   "company_name": "Gaiger Brothers Limited",
+   "company_number": "00534193",
+   "town": "Devizes",
+   "postcode": "SN10 1JT",
+   "region": "South West",
+   "sic_code": "41100",
+   "sic_description": "Development of building projects",
+   "turnover_gbp": {
+    "2022": 12944542,
+    "2023": 17616290,
+    "2024": 22461668
+   },
+   "cagr_2022_2024_pct": 31.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/00534193"
+  },
+  {
+   "rank": 50,
+   "company_name": "Exheat Limited",
+   "company_number": "02624818",
+   "town": "Norwich",
+   "postcode": "NR3 1GS",
+   "region": "East of England",
+   "sic_code": "27900",
+   "sic_description": "Manufacture of other electrical equipment",
+   "turnover_gbp": {
+    "2022": 9677755,
+    "2023": 12244152,
+    "2024": 16791308
+   },
+   "cagr_2022_2024_pct": 31.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02624818"
+  },
+  {
+   "rank": 51,
+   "company_name": "Dennis Johns Service Group Limited",
+   "company_number": "07944282",
+   "town": "London",
+   "postcode": "E10 7QP",
+   "region": "London",
+   "sic_code": "43210",
+   "sic_description": "Electrical installation",
+   "turnover_gbp": {
+    "2022": 6300905,
+    "2023": 8581162,
+    "2024": 10820308
+   },
+   "cagr_2022_2024_pct": 31.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07944282"
+  },
+  {
+   "rank": 52,
+   "company_name": "Andrew Strain Construction Limited",
+   "company_number": "SC312487",
+   "town": "Glasgow",
+   "postcode": "G32 8EY",
+   "region": "Scotland",
+   "sic_code": "43120",
+   "sic_description": "Site preparation",
+   "turnover_gbp": {
+    "2022": 19504946,
+    "2023": 26059847,
+    "2024": 33359095
+   },
+   "cagr_2022_2024_pct": 30.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC312487"
+  },
+  {
+   "rank": 53,
+   "company_name": "Castle Precision Engineering (Glasgow) Limited",
+   "company_number": "SC039355",
+   "town": "Lanarkshire",
+   "postcode": "G45 9SZ",
+   "region": "Scotland",
+   "sic_code": "25620",
+   "sic_description": "Machining",
+   "turnover_gbp": {
+    "2022": 19117593,
+    "2023": 23973154,
+    "2024": 32560010
+   },
+   "cagr_2022_2024_pct": 30.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC039355"
+  },
+  {
+   "rank": 54,
+   "company_name": "Cards Direct Retail Limited",
+   "company_number": "08113467",
+   "town": "Hemel Hempstead",
+   "postcode": "HP2 7FZ",
+   "region": "East of England",
+   "sic_code": "47910",
+   "sic_description": "Retail sale via mail order houses or via Internet",
+   "turnover_gbp": {
+    "2022": 11857429,
+    "2023": 14733866,
+    "2024": 20080682
+   },
+   "cagr_2022_2024_pct": 30.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08113467"
+  },
+  {
+   "rank": 55,
+   "company_name": "Prestwick Aircraft Maintenance Ltd",
+   "company_number": "SC252985",
+   "town": "Prestwick Airport",
+   "postcode": "KA9 2PQ",
+   "region": "Scotland",
+   "sic_code": "52230",
+   "sic_description": "Service activities incidental to air transportation",
+   "turnover_gbp": {
+    "2022": 24488131,
+    "2023": 32011111,
+    "2024": 41441957
+   },
+   "cagr_2022_2024_pct": 30.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/SC252985"
+  },
+  {
+   "rank": 56,
+   "company_name": "MCHFB Limited",
+   "company_number": "NI623186",
+   "town": "Belfast",
+   "postcode": "BT9 6DL",
+   "region": "Northern Ireland",
+   "sic_code": "74909",
+   "sic_description": "Other professional, scientific and technical activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 3414549,
+    "2023": 4515799,
+    "2024": 5721288
+   },
+   "cagr_2022_2024_pct": 29.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI623186"
+  },
+  {
+   "rank": 57,
+   "company_name": "Right Formula Ltd",
+   "company_number": "06969725",
+   "town": "London",
+   "postcode": "SW11 8DX",
+   "region": "London",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 17495292,
+    "2023": 22831637,
+    "2024": 29294670
+   },
+   "cagr_2022_2024_pct": 29.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/06969725"
+  },
+  {
+   "rank": 58,
+   "company_name": "Edwards & Ward Limited",
+   "company_number": "03714522",
+   "town": "Crowborough",
+   "postcode": "TN6 1JP",
+   "region": "South East",
+   "sic_code": "56290",
+   "sic_description": "Other food services",
+   "turnover_gbp": {
+    "2022": 12017704,
+    "2023": 13619436,
+    "2024": 20102859
+   },
+   "cagr_2022_2024_pct": 29.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03714522"
+  },
+  {
+   "rank": 59,
+   "company_name": "Daisy Green Food Limited",
+   "company_number": "08024998",
+   "town": "London",
+   "postcode": "W1H 7RF",
+   "region": "London",
+   "sic_code": "56101",
+   "sic_description": "Licensed restaurants",
+   "turnover_gbp": {
+    "2022": 13646921,
+    "2023": 17862986,
+    "2024": 22691906
+   },
+   "cagr_2022_2024_pct": 28.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08024998"
+  },
+  {
+   "rank": 60,
+   "company_name": "Simply Lunch Ltd",
+   "company_number": "03133582",
+   "town": "Croydon",
+   "postcode": "CR0 4ZS",
+   "region": "London",
+   "sic_code": "10890",
+   "sic_description": "Manufacture of other food products n.e.c.",
+   "turnover_gbp": {
+    "2022": 23846433,
+    "2023": 34384841,
+    "2024": 39495370
+   },
+   "cagr_2022_2024_pct": 28.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03133582"
+  },
+  {
+   "rank": 61,
+   "company_name": "Nourish Contract Catering Limited",
+   "company_number": "04953033",
+   "town": "London",
+   "postcode": "SE26 5BW",
+   "region": "London",
+   "sic_code": "56290",
+   "sic_description": "Other food services",
+   "turnover_gbp": {
+    "2022": 11660760,
+    "2023": 13680029,
+    "2024": 19124650
+   },
+   "cagr_2022_2024_pct": 28.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04953033"
+  },
+  {
+   "rank": 62,
+   "company_name": "Classic Football Company Limited",
+   "company_number": "05843042",
+   "town": "Hyde",
+   "postcode": "SK14 4QF",
+   "region": "North West",
+   "sic_code": "47910",
+   "sic_description": "Retail sale via mail order houses or via Internet",
+   "turnover_gbp": {
+    "2022": 19472959,
+    "2023": 24470680,
+    "2024": 31885350
+   },
+   "cagr_2022_2024_pct": 28.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05843042"
+  },
+  {
+   "rank": 63,
+   "company_name": "New Century Foods Limited",
+   "company_number": "04197908",
+   "town": "Scunthorpe",
+   "postcode": "DN15 8QW",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "10110",
+   "sic_description": "Processing and preserving of meat",
+   "turnover_gbp": {
+    "2022": 25240263,
+    "2023": 32494499,
+    "2024": 41301821
+   },
+   "cagr_2022_2024_pct": 27.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04197908"
+  },
+  {
+   "rank": 64,
+   "company_name": "Billy-Bob's Parlour Limited",
+   "company_number": "07603944",
+   "town": "Skipton",
+   "postcode": "BD23 6EU",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "56102",
+   "sic_description": "Unlicensed restaurants and cafes",
+   "turnover_gbp": {
+    "2022": 3982807,
+    "2023": 5123174,
+    "2024": 6508149
+   },
+   "cagr_2022_2024_pct": 27.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07603944"
+  },
+  {
+   "rank": 65,
+   "company_name": "Clearanswer Call Centres Limited",
+   "company_number": "04549385",
+   "town": "Rayleigh",
+   "postcode": "SS6 7BS",
+   "region": "East of England",
+   "sic_code": "82200",
+   "sic_description": "Activities of call centres",
+   "turnover_gbp": {
+    "2022": 15433464,
+    "2023": 18877784,
+    "2024": 25021268
+   },
+   "cagr_2022_2024_pct": 27.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04549385"
+  },
+  {
+   "rank": 66,
+   "company_name": "Naturetrek Limited",
+   "company_number": "03311102",
+   "town": "Alton",
+   "postcode": "GU34 3HJ",
+   "region": "South East",
+   "sic_code": "79120",
+   "sic_description": "Tour operator activities",
+   "turnover_gbp": {
+    "2022": 17676242,
+    "2023": 22734169,
+    "2024": 28412426
+   },
+   "cagr_2022_2024_pct": 26.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/03311102"
+  },
+  {
+   "rank": 67,
+   "company_name": "Monty Trading Limited",
+   "company_number": "09662682",
+   "town": "Chippenham",
+   "postcode": "SN15 5BD",
+   "region": "South West",
+   "sic_code": "47599",
+   "sic_description": "Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store",
+   "turnover_gbp": {
+    "2022": 15937744,
+    "2023": 21233813,
+    "2024": 25617335
+   },
+   "cagr_2022_2024_pct": 26.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09662682"
+  },
+  {
+   "rank": 68,
+   "company_name": "Theatre of Comedy Company Limited",
+   "company_number": "01678553",
+   "town": "London",
+   "postcode": "WC2H 8DP",
+   "region": "London",
+   "sic_code": "90010",
+   "sic_description": "Performing arts",
+   "turnover_gbp": {
+    "2022": 17093739,
+    "2023": 26284213,
+    "2024": 27442332
+   },
+   "cagr_2022_2024_pct": 26.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01678553"
+  },
+  {
+   "rank": 69,
+   "company_name": "Bayview Contracts Ltd",
+   "company_number": "NI041488",
+   "town": "Newry",
+   "postcode": "BT34 2QU",
+   "region": "Northern Ireland",
+   "sic_code": "43220",
+   "sic_description": "Plumbing, heat and air-conditioning installation",
+   "turnover_gbp": {
+    "2022": 15280722,
+    "2023": 24134415,
+    "2024": 24458636
+   },
+   "cagr_2022_2024_pct": 26.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI041488"
+  },
+  {
+   "rank": 70,
+   "company_name": "Tanager Wealth Management LLP",
+   "company_number": "OC377053",
+   "town": "Reading",
+   "postcode": "RG8 9DD",
+   "region": "South East",
+   "sic_code": "None Supplied",
+   "sic_description": "None Supplied",
+   "turnover_gbp": {
+    "2022": 4223095,
+    "2023": 5380388,
+    "2024": 6745835
+   },
+   "cagr_2022_2024_pct": 26.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/OC377053"
+  },
+  {
+   "rank": 71,
+   "company_name": "Picow Engineering Limited",
+   "company_number": "01466425",
+   "town": "Runcorn",
+   "postcode": "WA7 5TQ",
+   "region": "North West",
+   "sic_code": "43210",
+   "sic_description": "Electrical installation",
+   "turnover_gbp": {
+    "2022": 13846428,
+    "2023": 21865310,
+    "2024": 22097176
+   },
+   "cagr_2022_2024_pct": 26.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01466425"
+  },
+  {
+   "rank": 72,
+   "company_name": "Namos Solutions Ltd",
+   "company_number": "08143537",
+   "town": "London",
+   "postcode": "EC2Y 5AU",
+   "region": "London",
+   "sic_code": "62020",
+   "sic_description": "Information technology consultancy activities",
+   "turnover_gbp": {
+    "2022": 8509157,
+    "2023": 11038176,
+    "2024": 13519547
+   },
+   "cagr_2022_2024_pct": 26.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08143537"
+  },
+  {
+   "rank": 73,
+   "company_name": "Prm Ireland Limited",
+   "company_number": "NI026209",
+   "town": "Moira Road",
+   "postcode": "BT28 2RE",
+   "region": "Northern Ireland",
+   "sic_code": "46170",
+   "sic_description": "Agents involved in the sale of food, beverages and tobacco",
+   "turnover_gbp": {
+    "2022": 25726909,
+    "2023": 33780747,
+    "2024": 40859817
+   },
+   "cagr_2022_2024_pct": 26.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/NI026209"
+  },
+  {
+   "rank": 74,
+   "company_name": "Dunsters Farm Limited",
+   "company_number": "00786115",
+   "town": "Lancs",
+   "postcode": "BL9 7BR",
+   "region": "North West",
+   "sic_code": "46330",
+   "sic_description": "Wholesale of dairy products, eggs and edible oils and fats",
+   "turnover_gbp": {
+    "2022": 18940789,
+    "2023": 24366862,
+    "2024": 29991043
+   },
+   "cagr_2022_2024_pct": 25.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/00786115"
+  },
+  {
+   "rank": 75,
+   "company_name": "Poeton Industries Limited",
+   "company_number": "00246071",
+   "town": "Gloucester",
+   "postcode": "GL4 3DN",
+   "region": "South West",
+   "sic_code": "25610",
+   "sic_description": "Treatment and coating of metals",
+   "turnover_gbp": {
+    "2022": 10429466,
+    "2023": 15327923,
+    "2024": 16486679
+   },
+   "cagr_2022_2024_pct": 25.7,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/00246071"
+  },
+  {
+   "rank": 76,
+   "company_name": "Fennies Day Nurseries Limited",
+   "company_number": "05088188",
+   "town": "Epsom",
+   "postcode": "KT19 8TH",
+   "region": "South East",
+   "sic_code": "41100",
+   "sic_description": "Development of building projects",
+   "turnover_gbp": {
+    "2022": 18546136,
+    "2023": 23217680,
+    "2024": 29192215
+   },
+   "cagr_2022_2024_pct": 25.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05088188"
+  },
+  {
+   "rank": 77,
+   "company_name": "Clubsport Skechers Limited",
+   "company_number": "08647261",
+   "town": "Kington",
+   "postcode": "HR5 3AZ",
+   "region": "West Midlands",
+   "sic_code": "47789",
+   "sic_description": "Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)",
+   "turnover_gbp": {
+    "2022": 15187044,
+    "2023": 20690951,
+    "2024": 23904160
+   },
+   "cagr_2022_2024_pct": 25.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/08647261"
+  },
+  {
+   "rank": 78,
+   "company_name": "State 4 Restaurants Limited",
+   "company_number": "09620538",
+   "town": "Derby",
+   "postcode": "DE74 2SA",
+   "region": "East Midlands",
+   "sic_code": "56102",
+   "sic_description": "Unlicensed restaurants and cafes",
+   "turnover_gbp": {
+    "2022": 15942967,
+    "2023": 17845217,
+    "2024": 25019301
+   },
+   "cagr_2022_2024_pct": 25.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09620538"
+  },
+  {
+   "rank": 79,
+   "company_name": "S O L Services Limited",
+   "company_number": "04754905",
+   "town": "Milton Keynes",
+   "postcode": "MK1 1HW",
+   "region": "South East",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 14775023,
+    "2023": 18423810,
+    "2024": 23137807
+   },
+   "cagr_2022_2024_pct": 25.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04754905"
+  },
+  {
+   "rank": 80,
+   "company_name": "Vinyl Space Limited",
+   "company_number": "04191465",
+   "town": "Lincoln",
+   "postcode": "LN1 1XG",
+   "region": "East Midlands",
+   "sic_code": "55100",
+   "sic_description": "Hotels and similar accommodation",
+   "turnover_gbp": {
+    "2022": 6495615,
+    "2023": 9976947,
+    "2024": 10169645
+   },
+   "cagr_2022_2024_pct": 25.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04191465"
+  },
+  {
+   "rank": 81,
+   "company_name": "Import Export Services Ltd",
+   "company_number": "04221947",
+   "town": "Bristol",
+   "postcode": "BS11 9LS",
+   "region": "South West",
+   "sic_code": "33200",
+   "sic_description": "Installation of industrial machinery and equipment",
+   "turnover_gbp": {
+    "2022": 9603465,
+    "2023": 14732774,
+    "2024": 15022240
+   },
+   "cagr_2022_2024_pct": 25.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04221947"
+  },
+  {
+   "rank": 82,
+   "company_name": "Geo Roof Limited",
+   "company_number": "11397817",
+   "town": "Basildon",
+   "postcode": "SS14 3EU",
+   "region": "East of England",
+   "sic_code": "43910",
+   "sic_description": "Roofing activities",
+   "turnover_gbp": {
+    "2022": 20729553,
+    "2023": 23478798,
+    "2024": 32388511
+   },
+   "cagr_2022_2024_pct": 25.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/11397817"
+  },
+  {
+   "rank": 83,
+   "company_name": "Feltham Coachworks Limited",
+   "company_number": "02698969",
+   "town": "Twickenham",
+   "postcode": "TW1 1AU",
+   "region": "London",
+   "sic_code": "45200",
+   "sic_description": "Maintenance and repair of motor vehicles",
+   "turnover_gbp": {
+    "2022": 8398729,
+    "2023": 11819802,
+    "2024": 13026255
+   },
+   "cagr_2022_2024_pct": 24.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02698969"
+  },
+  {
+   "rank": 84,
+   "company_name": "Blends Flavours & Colours Limited",
+   "company_number": "10670248",
+   "town": "Prescot",
+   "postcode": "L34 9FB",
+   "region": "North West",
+   "sic_code": "10890",
+   "sic_description": "Manufacture of other food products n.e.c.",
+   "turnover_gbp": {
+    "2022": 10536646,
+    "2023": 14890812,
+    "2024": 16322162
+   },
+   "cagr_2022_2024_pct": 24.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/10670248"
+  },
+  {
+   "rank": 85,
+   "company_name": "Definitive Psa Ltd",
+   "company_number": "05989881",
+   "town": "Crawley",
+   "postcode": "RH11 7XX",
+   "region": "South East",
+   "sic_code": "80100",
+   "sic_description": "Private security activities",
+   "turnover_gbp": {
+    "2022": 11835930,
+    "2023": 17204763,
+    "2024": 18310453
+   },
+   "cagr_2022_2024_pct": 24.4,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05989881"
+  },
+  {
+   "rank": 86,
+   "company_name": "European Active Projects Limited",
+   "company_number": "05447028",
+   "town": "Gillingham",
+   "postcode": "ME7 2RT",
+   "region": "South East",
+   "sic_code": "25110",
+   "sic_description": "Manufacture of metal structures and parts of structures",
+   "turnover_gbp": {
+    "2022": 18581918,
+    "2023": 27146474,
+    "2024": 28687426
+   },
+   "cagr_2022_2024_pct": 24.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05447028"
+  },
+  {
+   "rank": 87,
+   "company_name": "Eurocoaches Limited",
+   "company_number": "02626854",
+   "town": "Bristol",
+   "postcode": "BS37 5NH",
+   "region": "South West",
+   "sic_code": "49390",
+   "sic_description": "Other passenger land transport",
+   "turnover_gbp": {
+    "2022": 4967964,
+    "2023": 6610997,
+    "2024": 7665909
+   },
+   "cagr_2022_2024_pct": 24.2,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02626854"
+  },
+  {
+   "rank": 88,
+   "company_name": "Treehouse Educare Limited",
+   "company_number": "09973494",
+   "town": "Horsham",
+   "postcode": "RH12 3PQ",
+   "region": "South East",
+   "sic_code": "87900",
+   "sic_description": "Other residential care activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 4206945,
+    "2023": 4798516,
+    "2024": 6475665
+   },
+   "cagr_2022_2024_pct": 24.1,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/09973494"
+  },
+  {
+   "rank": 89,
+   "company_name": "Stewart Signs Limited",
+   "company_number": "00782263",
+   "town": "Eastleigh  Hants",
+   "postcode": "SO53 4BW",
+   "region": "South East",
+   "sic_code": "18129",
+   "sic_description": "Printing n.e.c.",
+   "turnover_gbp": {
+    "2022": 7563144,
+    "2023": 10267467,
+    "2024": 11608447
+   },
+   "cagr_2022_2024_pct": 23.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/00782263"
+  },
+  {
+   "rank": 90,
+   "company_name": "T(n)s Catering Management Limited",
+   "company_number": "04811572",
+   "town": "Leamington Spa",
+   "postcode": "CV32 4YS",
+   "region": "West Midlands",
+   "sic_code": "56290",
+   "sic_description": "Other food services",
+   "turnover_gbp": {
+    "2022": 18406389,
+    "2023": 25594761,
+    "2024": 28249486
+   },
+   "cagr_2022_2024_pct": 23.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04811572"
+  },
+  {
+   "rank": 91,
+   "company_name": "Crampton and Moore (Television) Limited",
+   "company_number": "01327741",
+   "town": "Rotherham",
+   "postcode": "S60 5TR",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "47540",
+   "sic_description": "Retail sale of electrical household appliances in specialised stores",
+   "turnover_gbp": {
+    "2022": 23240821,
+    "2023": 32030448,
+    "2024": 35509845
+   },
+   "cagr_2022_2024_pct": 23.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01327741"
+  },
+  {
+   "rank": 92,
+   "company_name": "Cleantec Services Limited",
+   "company_number": "04155336",
+   "town": "Watford",
+   "postcode": "WD25 9EJ",
+   "region": "East of England",
+   "sic_code": "81210",
+   "sic_description": "General cleaning of buildings",
+   "turnover_gbp": {
+    "2022": 20098973,
+    "2023": 24529814,
+    "2024": 30567154
+   },
+   "cagr_2022_2024_pct": 23.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04155336"
+  },
+  {
+   "rank": 93,
+   "company_name": "O C Motor Repair Limited",
+   "company_number": "06243389",
+   "town": "Doncaster",
+   "postcode": "DN4 5JQ",
+   "region": "Yorkshire and The Humber",
+   "sic_code": "45200",
+   "sic_description": "Maintenance and repair of motor vehicles",
+   "turnover_gbp": {
+    "2022": 15735868,
+    "2023": 23502874,
+    "2024": 23915891
+   },
+   "cagr_2022_2024_pct": 23.3,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/06243389"
+  },
+  {
+   "rank": 94,
+   "company_name": "Somerford Associates Limited",
+   "company_number": "04250112",
+   "town": "Swindon",
+   "postcode": "SN1 5ED",
+   "region": "South West",
+   "sic_code": "82990",
+   "sic_description": "Other business support service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 20146541,
+    "2023": 29785553,
+    "2024": 30600215
+   },
+   "cagr_2022_2024_pct": 23.2,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/04250112"
+  },
+  {
+   "rank": 95,
+   "company_name": "Jones Fm LLP",
+   "company_number": "OC374869",
+   "town": "Dartford",
+   "postcode": "DA2 6NW",
+   "region": "South East",
+   "sic_code": "None Supplied",
+   "sic_description": "None Supplied",
+   "turnover_gbp": {
+    "2022": 14394606,
+    "2023": 17419636,
+    "2024": 21792881
+   },
+   "cagr_2022_2024_pct": 23.0,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/OC374869"
+  },
+  {
+   "rank": 96,
+   "company_name": "Thirsty Work Limited",
+   "company_number": "07125158",
+   "town": "Exeter",
+   "postcode": "EX2 7HA",
+   "region": "South West",
+   "sic_code": "46341",
+   "sic_description": "Wholesale of fruit and vegetable juices, mineral water and soft drinks",
+   "turnover_gbp": {
+    "2022": 6191125,
+    "2023": 7632615,
+    "2024": 9356818
+   },
+   "cagr_2022_2024_pct": 22.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/07125158"
+  },
+  {
+   "rank": 97,
+   "company_name": "Books 2 Door Limited",
+   "company_number": "05060595",
+   "town": "Leicester",
+   "postcode": "LE1 4BX",
+   "region": "East Midlands",
+   "sic_code": "47910",
+   "sic_description": "Retail sale via mail order houses or via Internet",
+   "turnover_gbp": {
+    "2022": 20639924,
+    "2023": 25180638,
+    "2024": 31176469
+   },
+   "cagr_2022_2024_pct": 22.9,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/05060595"
+  },
+  {
+   "rank": 98,
+   "company_name": "Lh plc",
+   "company_number": "02802249",
+   "town": "Wimbledon",
+   "postcode": "SW19 8UG",
+   "region": "London",
+   "sic_code": "96090",
+   "sic_description": "Other service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 3809879,
+    "2023": 4597797,
+    "2024": 5740828
+   },
+   "cagr_2022_2024_pct": 22.8,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/02802249"
+  },
+  {
+   "rank": 99,
+   "company_name": "Ambit Moat Limited",
+   "company_number": "10239695",
+   "town": "London",
+   "postcode": "SE1 9DU",
+   "region": "London",
+   "sic_code": "96090",
+   "sic_description": "Other service activities n.e.c.",
+   "turnover_gbp": {
+    "2022": 22989879,
+    "2023": 32748785,
+    "2024": 34559381
+   },
+   "cagr_2022_2024_pct": 22.6,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/10239695"
+  },
+  {
+   "rank": 100,
+   "company_name": "Dowhigh Limited",
+   "company_number": "01210665",
+   "town": "Liverpool",
+   "postcode": "L30 6UH",
+   "region": "North West",
+   "sic_code": "42110",
+   "sic_description": "Construction of roads and motorways",
+   "turnover_gbp": {
+    "2022": 12267626,
+    "2023": 14789235,
+    "2024": 18402679
+   },
+   "cagr_2022_2024_pct": 22.5,
+   "companies_house_url": "https://find-and-update.company-information.service.gov.uk/company/01210665"
+  }
+ ]
+}

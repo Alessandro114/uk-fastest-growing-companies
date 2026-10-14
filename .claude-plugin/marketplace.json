@@ -1,0 +1,7 @@
+{
+  "name": "uk-fastest-growing-companies",
+  "owner": { "name": "Alessandro Binda (SCALA)", "url": "https://score.get-scala.com" },
+  "plugins": [
+    { "name": "uk-fastest-growing-companies", "source": "./", "description": "Fastest-growing independent UK SMEs 2022-2024 from Companies House filed accounts." }
+  ]
+}
