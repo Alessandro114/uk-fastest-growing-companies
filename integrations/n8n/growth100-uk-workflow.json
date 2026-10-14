@@ -1,0 +1,95 @@
+{
+ "name": "Fastest-growing UK SMEs by region or sector (Companies House, 2022-2024)",
+ "nodes": [
+  {
+   "parameters": {},
+   "id": "b1f0c6d2-0001-4a1e-9a01-000000000001",
+   "name": "When clicking 'Test workflow'",
+   "type": "n8n-nodes-base.manualTrigger",
+   "typeVersion": 1,
+   "position": [
+    0,
+    0
+   ]
+  },
+  {
+   "parameters": {
+    "url": "https://raw.githubusercontent.com/Alessandro114/uk-fastest-growing-companies/main/data/growth100-uk-2022-2024.csv",
+    "options": {
+     "response": {
+      "response": {
+       "responseFormat": "text"
+      }
+     }
+    }
+   },
+   "id": "b1f0c6d2-0002-4a1e-9a01-000000000002",
+   "name": "Get Growth 100 UK (CSV)",
+   "type": "n8n-nodes-base.httpRequest",
+   "typeVersion": 4.2,
+   "position": [
+    240,
+    0
+   ]
+  },
+  {
+   "parameters": {
+    "jsCode": "// Settings: change these two lines (empty string = no filter)\nconst REGION = 'Scotland';      // e.g. 'London', 'North West', 'Northern Ireland', '' for all\nconst SECTOR = '';              // SIC prefix ('43') or words ('construction', 'restaurant'), '' for all\n\nconst csv = $input.first().json.data;\nconst lines = csv.trim().split('\\n');\nconst parse = (l) => { const out = []; let cur = '', q = false;\n  for (const ch of l) { if (ch === '\"') q = !q; else if (ch === ',' && !q) { out.push(cur); cur = ''; } else cur += ch; }\n  out.push(cur); return out; };\nconst head = parse(lines[0]);\nconst rows = lines.slice(1).map((l) => Object.fromEntries(parse(l).map((v, i) => [head[i], v])));\nconst norm = (s) => String(s || '').toLowerCase();\nlet r = rows;\nif (REGION) r = r.filter((x) => norm(x.region).includes(norm(REGION)));\nif (SECTOR) r = /^\\d+$/.test(SECTOR) ? r.filter((x) => x.sic_code.startsWith(SECTOR)) : r.filter((x) => norm(x.sic_description).includes(norm(SECTOR)));\nreturn r.map((x) => ({ json: {\n  rank: Number(x.rank), company: x.company_name, company_number: x.company_number, town: x.town, region: x.region,\n  sector: `${x.sic_code} ${x.sic_description}`,\n  turnover_2022_gbp: Number(x.turnover_2022_gbp), turnover_2024_gbp: Number(x.turnover_2024_gbp),\n  growth_per_year_pct: Number(x.cagr_2022_2024_pct), companies_house: x.companies_house_url,\n  summary: `#${x.rank} ${x.company_name} (${x.town}): \u00a3${(x.turnover_2022_gbp/1e6).toFixed(1)}m -> \u00a3${(x.turnover_2024_gbp/1e6).toFixed(1)}m, +${x.cagr_2022_2024_pct}%/yr`,\n} }));"
+   },
+   "id": "b1f0c6d2-0003-4a1e-9a01-000000000003",
+   "name": "Filter by region / sector",
+   "type": "n8n-nodes-base.code",
+   "typeVersion": 2,
+   "position": [
+    480,
+    0
+   ]
+  },
+  {
+   "parameters": {
+    "content": "## Fastest-growing UK SMEs\nThe 100 independent UK SMEs whose turnover grew fastest FY2022-FY2024, from accounts filed at Companies House (reviewed by hand).\n\n1. Set REGION / SECTOR in the Code node.\n2. Connect the output to Slack, Google Sheets, Airtable, email or your CRM.\n\nData: github.com/Alessandro114/uk-fastest-growing-companies (CC BY 4.0)\nMethod: score.get-scala.com/rankings/uk/growth-100/",
+    "height": 300,
+    "width": 420
+   },
+   "id": "b1f0c6d2-0004-4a1e-9a01-000000000004",
+   "name": "Sticky Note",
+   "type": "n8n-nodes-base.stickyNote",
+   "typeVersion": 1,
+   "position": [
+    -40,
+    -360
+   ]
+  }
+ ],
+ "connections": {
+  "When clicking 'Test workflow'": {
+   "main": [
+    [
+     {
+      "node": "Get Growth 100 UK (CSV)",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  },
+  "Get Growth 100 UK (CSV)": {
+   "main": [
+    [
+     {
+      "node": "Filter by region / sector",
+      "type": "main",
+      "index": 0
+     }
+    ]
+   ]
+  }
+ },
+ "settings": {
+  "executionOrder": "v1"
+ },
+ "pinData": {},
+ "meta": {
+  "templateCredsSetupCompleted": true
+ }
+}

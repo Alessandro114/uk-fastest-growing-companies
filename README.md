@@ -29,6 +29,11 @@ npx -y github:Alessandro114/uk-fastest-growing-companies regions
 
 JSON by default (for agents), `--table` for humans. Offline, no API key.
 
+## Integrations
+
+- **n8n**: ready-made workflow in [`integrations/n8n`](integrations/n8n/) (download, filter by region or sector, send to Slack/Sheets/CRM).
+- **Any tool that reads a URL**: `https://raw.githubusercontent.com/Alessandro114/uk-fastest-growing-companies/main/data/growth100-uk-2022-2024.csv` (or `.json`).
+
 ## What's in it
 
 | Field | Meaning |
