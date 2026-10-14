@@ -20,11 +20,11 @@ Any agent that can run a shell command (OpenClaw, Hermes, Codex, Cursor...) can 
 ## CLI
 
 ```
-npx -y uk-fastest-growing-companies top --limit 10
-npx -y uk-fastest-growing-companies filter --region "North West" --table
-npx -y uk-fastest-growing-companies filter --sector construction
-npx -y uk-fastest-growing-companies company "Diona Construction"
-npx -y uk-fastest-growing-companies regions
+npx -y github:Alessandro114/uk-fastest-growing-companies top --limit 10
+npx -y github:Alessandro114/uk-fastest-growing-companies filter --region "North West" --table
+npx -y github:Alessandro114/uk-fastest-growing-companies filter --sector construction
+npx -y github:Alessandro114/uk-fastest-growing-companies company "Diona Construction"
+npx -y github:Alessandro114/uk-fastest-growing-companies regions
 ```
 
 JSON by default (for agents), `--table` for humans. Offline, no API key.

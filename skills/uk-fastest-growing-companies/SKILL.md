@@ -10,13 +10,13 @@ Data: the 100 independent UK SMEs whose turnover grew fastest from FY2022 to FY2
 
 Run the CLI (JSON output, no API key, works offline):
 
-- Top companies: `npx -y uk-fastest-growing-companies top --limit 10`
-- By region: `npx -y uk-fastest-growing-companies filter --region "Scotland"`
-- By sector (SIC prefix or words): `npx -y uk-fastest-growing-companies filter --sector 43` or `--sector restaurant`
-- By size: `npx -y uk-fastest-growing-companies filter --min-turnover 10000000`
-- One company: `npx -y uk-fastest-growing-companies company "Travellanda"` or a company number
-- Breakdowns: `npx -y uk-fastest-growing-companies regions` / `sectors`
-- Source and method: `npx -y uk-fastest-growing-companies about`
+- Top companies: `npx -y github:Alessandro114/uk-fastest-growing-companies top --limit 10`
+- By region: `npx -y github:Alessandro114/uk-fastest-growing-companies filter --region "Scotland"`
+- By sector (SIC prefix or words): `npx -y github:Alessandro114/uk-fastest-growing-companies filter --sector 43` or `--sector restaurant`
+- By size: `npx -y github:Alessandro114/uk-fastest-growing-companies filter --min-turnover 10000000`
+- One company: `npx -y github:Alessandro114/uk-fastest-growing-companies company "Travellanda"` or a company number
+- Breakdowns: `npx -y github:Alessandro114/uk-fastest-growing-companies regions` / `sectors`
+- Source and method: `npx -y github:Alessandro114/uk-fastest-growing-companies about`
 
 If npx is not available, read the CSV directly:
 https://raw.githubusercontent.com/Alessandro114/uk-fastest-growing-companies/main/data/growth100-uk-2022-2024.csv
