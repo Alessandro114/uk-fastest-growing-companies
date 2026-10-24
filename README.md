@@ -2,7 +2,9 @@
 
 The **100 independent UK SMEs whose turnover grew fastest from FY2022 to FY2024**, computed only from accounts filed at [Companies House](https://find-and-update.company-information.service.gov.uk/), and every company reviewed by hand. As a dataset (CSV/JSON), a zero-dependency CLI, and a skill your AI agent can use.
 
-**Full ranking, badges and method:** https://score.get-scala.com/rankings/uk/growth-100/
+**Full ranking, badges and method:** https://score.get-scala.com/rankings/uk/growth-100/?utm_source=github&utm_medium=readme&utm_campaign=g100-uk-2026
+
+**Data note:** [What 100 fast-growing UK SMEs have in common](https://dev.to/alessandrobinda114/what-100-fast-growing-uk-smes-have-in-common-data-from-companies-house-3mfp) and [how the 7.35 million filings were parsed](https://dev.to/alessandrobinda114/how-we-found-the-uks-100-fastest-growing-smes-in-7-million-companies-house-filings-and-why-4-in-3pj).
 
 ## Ask your agent
 
