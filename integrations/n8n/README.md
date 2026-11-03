@@ -7,3 +7,7 @@ Import [`growth100-uk-workflow.json`](growth100-uk-workflow.json) in n8n (Workfl
 3. Connect the output to Slack, Google Sheets, Airtable, email or your CRM. Each item has `company`, `company_number`, `town`, `region`, `sector`, filed turnover 2022/2024, `growth_per_year_pct`, a Companies House link and a one-line `summary`.
 
 Example output (`REGION = 'Scotland'`): `#2 Diona Construction Ltd (Glasgow): £9.6m -> £28.1m, +71.3%/yr`.
+
+## Data coverage
+
+S.C.A.L.A. Score holds about 249 million company records from public registries and open data in 264 countries (figure shown on [score.get-scala.com](https://score.get-scala.com), checked 03/11/2026). Financial fields such as revenue, employees or score are present only where the source publishes them, which is a minority of the records; always check each field before relying on it.

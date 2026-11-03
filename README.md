@@ -62,4 +62,8 @@ Spotted an error, or want your company removed? Open an issue or use the contact
 
 Source: the Companies House public register (iXBRL accounts filed January 2024 to December 2025; PSC snapshot of 12 October 2026; company data product of 1 October 2026), processed by [SCALA](https://score.get-scala.com). Code: MIT. Data: CC BY 4.0 ([LICENSE-DATA](LICENSE-DATA)), attribution "SCALA, score.get-scala.com".
 
-More company data for 40+ countries: [SCALA Score](https://score.get-scala.com) · [world-company-database](https://github.com/Alessandro114/world-company-database)
+More company data for 264 countries: [SCALA Score](https://score.get-scala.com) · [world-company-database](https://github.com/Alessandro114/world-company-database)
+
+## Data coverage
+
+S.C.A.L.A. Score holds about 249 million company records from public registries and open data in 264 countries (figure shown on [score.get-scala.com](https://score.get-scala.com), checked 03/11/2026). Financial fields such as revenue, employees or score are present only where the source publishes them, which is a minority of the records; always check each field before relying on it.
